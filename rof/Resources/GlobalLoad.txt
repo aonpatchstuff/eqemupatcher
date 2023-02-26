@@ -1,3 +1,4 @@
+1,0,TFFF,growthplane_chr,Loading Characters
 1,1,TFFFE,equipment-01.eqg,Loading Character Equipment Files
 1,1,TFFF,GlobalFroglok_chr,Loading Classic Froglok
 1,1,TFFT,GlobalPCFroglok_chr,Loading Guktan
